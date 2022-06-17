@@ -1,0 +1,14 @@
+[
+  {
+    "package": "MSEtool",
+    "oncran": true
+  },
+  {
+    "package": "openMSE",
+    "oncran": true
+  },
+  {
+    "package": "SAMtool",
+    "oncran": true
+  }
+]
