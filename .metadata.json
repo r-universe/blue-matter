@@ -1,10 +1,10 @@
 [
   {
-    "package": "MSEtool",
+    "package": "openMSE",
     "oncran": true
   },
   {
-    "package": "openMSE",
+    "package": "MSEtool",
     "oncran": true
   },
   {
