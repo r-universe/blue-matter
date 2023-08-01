@@ -5,9 +5,9 @@
 [submodule "MSEtool"]
 	path = MSEtool
 	url = https://github.com/blue-matter/msetool
-[submodule "openMSE"]
-	path = openMSE
-	url = https://github.com/blue-matter/openmse
 [submodule "SAMtool"]
 	path = SAMtool
 	url = https://github.com/blue-matter/samtool
+[submodule "openMSE"]
+	path = openMSE
+	url = https://github.com/blue-matter/openmse
