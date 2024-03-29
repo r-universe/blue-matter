@@ -1,13 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/blue-matter/blue-matter.r-universe.dev
 	branch = HEAD
+[submodule "DLMtool"]
+	path = DLMtool
+	url = https://github.com/Blue-Matter/DLMtool
 [submodule "MSEtool"]
 	path = MSEtool
-	url = https://github.com/blue-matter/msetool
+	url = https://github.com/Blue-Matter/MSEtool
 [submodule "SAMtool"]
 	path = SAMtool
-	url = https://github.com/blue-matter/samtool
+	url = https://github.com/Blue-Matter/SAMtool
 [submodule "openMSE"]
 	path = openMSE
-	url = https://github.com/blue-matter/openmse
+	url = https://github.com/Blue-Matter/openMSE
